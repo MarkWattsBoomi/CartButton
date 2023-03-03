@@ -1,0 +1,40 @@
+{
+  "attributes": {
+    "countField": "The name of a Flow value (numeric) which holds the shopping cart item count."
+  },
+  "configurationEditors": [
+    "LABEL"
+  ],
+  "dateCreated": "2023-03-03T13:56:54.6660054+00:00",
+  "dateModified": "2023-03-03T13:56:54.666006+00:00",
+  "designTimeImageURL": null,
+  "designTimeRenderType": "TOGGLE",
+  "developerName": "Shopping Cart Button",
+  "developerSummary": "A button which shows a cart icon with a super-imposed counter on top.",
+  "elementType": "CUSTOM_PAGE_COMPONENT",
+  "icon": "ShoppingCart",
+  "id": "9b0ea48a-75f5-43cf-96d0-c54c962a6c6c",
+  "key": "cartbutton",
+  "legacyScriptURL": "http://localhost:8080/cartbutton.js",
+  "legacyStyleSheetURL": "http://localhost:8080/cartbutton.css",
+  "scriptURL": null,
+  "styleSheetURL": null,
+  "whoCreated": {
+    "email": "markwatts@boomi.com",
+    "firstName": "Mark",
+    "id": "22dcefc8-b407-4974-8044-327cb44b134e",
+    "lastName": "Watts"
+  },
+  "whoModified": {
+    "email": "markwatts@boomi.com",
+    "firstName": "Mark",
+    "id": "22dcefc8-b407-4974-8044-327cb44b134e",
+    "lastName": "Watts"
+  },
+  "whoOwner": {
+    "email": "markwatts@boomi.com",
+    "firstName": "Mark",
+    "id": "22dcefc8-b407-4974-8044-327cb44b134e",
+    "lastName": "Watts"
+  }
+}

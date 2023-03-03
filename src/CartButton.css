@@ -1,0 +1,35 @@
+.cartbutton {
+    position: relative;
+    margin-top: auto;
+    cursor: pointer;
+    width: fit-content;
+}
+
+.cartbutton-icon {
+    width: 5rem;
+    height: 5rem;
+    background-color: transparent;
+}
+
+.cartbutton-icon:hover {
+    cursor: pointer;
+}
+
+.cartbutton-marker {
+    position: absolute !important;
+    top: 1rem !important;
+    right: 0;
+    background-color: #f00;
+    border-radius: 50%;
+    pointer-events: none;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+}
+
+.cartbutton-count {
+    font-size: 1rem;
+    color: #fff;
+    margin: auto;
+}
+
